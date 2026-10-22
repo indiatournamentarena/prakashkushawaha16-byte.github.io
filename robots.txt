@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prakashkushawaha16-byte.github.io/sitemap.xml
